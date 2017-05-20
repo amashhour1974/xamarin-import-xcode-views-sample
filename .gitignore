@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/MedAppImportXcodeViewsSample.UITests/obj/Debug
+/MedAppImportXcodeViewsSample.UITests/obj/Debug
+/packages
+/packages/Microsoft.CSharp.4.3.0/ref/MonoAndroid10/_._
