@@ -2,7 +2,7 @@
 Simple sample showing and describing the best process to reuse iOS views created in Xcode and import them to Xamarin.iOS project 
 
 Simple step by step instruction for importing Storyboards from Xcode to Xamarin Studio:
-1. Add the Xcode Storyboard to Xamarin Studio Xamarin.iOS project
+1. Add the Xcode Storyboard file to Xamarin Studio Xamarin.iOS project
 
 2. For each View in that imported Storyboard go to Identity properties and repeat steps 3 to 6
 
@@ -19,7 +19,7 @@ Simple step by step instruction for importing Storyboards from Xcode to Xamarin 
 <br>
 <br>
 
-# Details
+## Detailed description ##
 
 ### **Reusing existing Storyboards from Xcode to Xamarin Studio Xamarin.iOS project** ###
 
